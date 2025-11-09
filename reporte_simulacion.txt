@@ -1,0 +1,6 @@
+--- Reporte de Simulación ---
+Hora de inicio:       14:42:35
+Hora de finalización: 14:42:38
+Duración de la simulación: 0:00:03.359864
+Tiempo teórico real:   5 minutos y 27 segundos
+------------------------------------
